@@ -30,7 +30,7 @@ An SVG Logo Maker!!!!!!!!
 ![Example SVG image:](assets/sampleSVG/logo.svg)
 
 - Here is a video showcasing the functionality of the completed project:
-![Showcase video:](https://drive.google.com/file/d/1jU17icNDqNKCsVai9dNLcY4d5YL1iNSS/view)
+[Showcase video:](https://drive.google.com/file/d/1jU17icNDqNKCsVai9dNLcY4d5YL1iNSS/view)
 
 ## Credits
 
