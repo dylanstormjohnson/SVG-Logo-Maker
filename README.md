@@ -27,7 +27,7 @@ An SVG Logo Maker!!!!!!!!
 - This project is intended to be used to create simple SVGs for general use in a quick and easy way that automates the writing of the SVGs.
 
 - Here is an image of the completed project:
-![Example SVG image:](assets/sampleSVG/logo.svg)
+![Example SVG image:](assets/sampleSVG/sample-logo.svg)
 
 - Here is a video showcasing the functionality of the completed project:
 [Showcase video:](https://drive.google.com/file/d/1jU17icNDqNKCsVai9dNLcY4d5YL1iNSS/view)
